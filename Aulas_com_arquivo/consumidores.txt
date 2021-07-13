@@ -1,0 +1,15 @@
+Lili Patinhas,12
+Lele Patinhas,12
+Lala Patinhas,12
+Lulu Patinhas,13
+Lulu Caldas,35
+Dudu Caldas,37
+Mari Marinha,45
+Pedro Marinha,54
+Dudu Marinha,65
+Pedro MArinha,12
+Lala Marinha,6
+Kiko Patinhas,30
+Kika Cardosin,23
+Lele Cardosin,32
+Dudu Cardosin,99
